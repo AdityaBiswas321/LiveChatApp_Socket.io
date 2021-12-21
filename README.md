@@ -17,4 +17,4 @@ Both users are now in a live chat session
 
 **Important:** 
 
-Built alongside a tutorial, not my own work, used for learning sockets
+Built alongside a tutorial, not my own work, used for learning sockets, attempted to use tech to create own chat system for another project.
